@@ -1,8 +1,8 @@
 # my_teleop
 
-2020.10.22,  Youngpyeong Kim
+2020.10.22,  Youngpyeong Kim.
 
-**ROS Teleoperation Package** for me. (easy to use)
+**ROS Teleoperation Package** for me. (easy to use)  
 Modify, customize [Turtlebot3 teleop package](https://github.com/ROBOTIS-GIT/turtlebot3).  
 
 ![Screenshot from 2020-10-22 10-34-59](https://user-images.githubusercontent.com/56711509/96807971-d1859b00-1452-11eb-877d-fce46ec93739.png)
