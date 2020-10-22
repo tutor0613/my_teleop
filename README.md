@@ -9,7 +9,7 @@ Modify, customize [Turtlebot3 teleop package](https://github.com/ROBOTIS-GIT/tur
 
 <br>
 
-## installation
+## Installation
 
 In your `catkin_ws/src`,  
 
